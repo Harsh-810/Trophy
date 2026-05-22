@@ -1,0 +1,181 @@
+{
+  "users": [
+    {
+      "name": "harsh",
+      "email": "harsh@gmail.com",
+      "password": "123",
+      "role": "client",
+      "id": "ZVwr1Gpg1zM",
+      "readNotifications": [
+        "SXyYrzpd8IQ"
+      ],
+      "blocked": true
+    },
+    {
+      "name": "Admin",
+      "email": "admin@admin.com",
+      "password": "admin123",
+      "role": "admin",
+      "id": "Gm-UyWVOnm4",
+      "readNotifications": [
+        "SXyYrzpd8IQ"
+      ],
+      "phone": "",
+      "gender": "Male",
+      "dob": "",
+      "avatar": "https://imgs.search.brave.com/Q1RoayVaRaO_GojjNm4vF61lp5xTZe4s6DjWFcvrCCM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA4Lzc5Lzc5Lzcx/LzM2MF9GXzg3OTc5/NzEwMl9uTUtpUGxT/OFpmV0RjUVNSS3RD/MWxXR3F4cGVTbEp0/Qi5qcGc"
+    },
+    {
+      "name": "lund",
+      "email": "lundutelassi@gmail.com",
+      "password": "lund",
+      "role": "admin",
+      "id": "RTMXgEr_lrs",
+      "blocked": true
+    }
+  ],
+  "products": [
+    {
+      "id": "L9p_xZ2We3q",
+      "name": "Crystal Star Pillar",
+      "price": 180,
+      "category": "Corporate Awards",
+      "image": "https://imgs.search.brave.com/gUe-1L-vJ0PyF7vBDop-FDkC2LYOWhR0XOos6opz_KM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMjAw/Mzc1MzYxLTAwMS9w/aG90by9hc3NvcnRl/ZC10cm9waGllcy5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/TlBBQjZTSjZ3eHVz/c3BzWVM2cktJbWxa/NVlZeGNZbzBhV0hi/TWlEeW1aYz0",
+      "description": "Elegant optical crystal star for top performers.",
+      "scale": "10\" Standard",
+      "material": "K9 Optical Crystal",
+      "sku": "AUR-8122"
+    },
+    {
+      "id": "X8b_cR1Vf2m",
+      "name": "Silver Championship Cup",
+      "price": 650,
+      "category": "Custom Cups",
+      "image": "https://imgs.search.brave.com/wped5r2LYVGyol1UXrMdD2RXZmjLsSHcwCpOik6yrEc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTg0/NjAyMzY1L3Bob3Rv/L3dpbm5lcnMtdHJv/cGhpZXMuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPVByaFdw/OE5fQmRFMDU5eWVv/QmFuX2RZRDhPR0tG/Y0JMVVY0eGN0dm5C/TkU9",
+      "description": "Classic silver-plated cup for elite competitions.",
+      "scale": "18\" Exhibition",
+      "material": "Silver-Plated Brass",
+      "sku": "AUR-3411"
+    }
+  ],
+  "orders": [
+    {
+      "orderId": "ONYX-26799",
+      "date": "May 21, 2026",
+      "customerName": "harsh asdf",
+      "customerEmail": "harsh@g.c",
+      "address": "adsfa, sdfa, 213121",
+      "items": [
+        {
+          "id": "p7Irh327IFg",
+          "name": "asdf",
+          "quantity": 3,
+          "price": 234,
+          "scale": "12\" Standard",
+          "engraving": "None"
+        },
+        {
+          "id": "s1aK2ohVZh4",
+          "name": "asdas",
+          "quantity": 3,
+          "price": 1232,
+          "scale": "12\" Standard scale",
+          "engraving": "None"
+        },
+        {
+          "id": "p7Irh327IFg",
+          "name": "asdf",
+          "quantity": 1,
+          "price": 234,
+          "scale": "10\" Grand",
+          "engraving": "None"
+        }
+      ],
+      "subtotal": 4632,
+      "discount": 0,
+      "shipping": 45,
+      "tax": 370.56,
+      "total": 5047.56,
+      "status": "Processing",
+      "paymentMethod": "QR Code Scan (Ref: DSFASDFASD)",
+      "id": "ZDCHqHEwjBc"
+    },
+    {
+      "orderId": "ONYX-32637",
+      "date": "May 21, 2026",
+      "customerName": "lund lassi ",
+      "customerEmail": "lundutelassi@gmail.com",
+      "address": "lodapur, dholakpur , 302012",
+      "items": [
+        {
+          "id": "p7Irh327IFg",
+          "name": "asdf",
+          "quantity": 2,
+          "price": 234,
+          "scale": "12\" Standard",
+          "engraving": "None"
+        }
+      ],
+      "subtotal": 468,
+      "discount": 0,
+      "shipping": 30,
+      "tax": 37.44,
+      "total": 535.44,
+      "status": "Delivered",
+      "paymentMethod": "QR Code Scan (Ref: RBFGEIWRBGFERBGERGBERG)",
+      "id": "vDC52I3J6m4"
+    },
+    {
+      "orderId": "ONYX-57290",
+      "date": "May 22, 2026",
+      "customerName": "harsh asdf",
+      "customerEmail": "harsh@gmail.com",
+      "address": "asdf, adsf, 213",
+      "items": [
+        {
+          "id": "L9p_xZ2We3q",
+          "name": "Crystal Star Pillar",
+          "quantity": 1,
+          "price": 180,
+          "scale": "10\" Grand",
+          "engraving": "None"
+        }
+      ],
+      "subtotal": 180,
+      "discount": 0,
+      "shipping": 45,
+      "tax": 14.4,
+      "total": 239.4,
+      "status": "Pending Approval",
+      "paymentMethod": "QR Code Scan (Ref: 2132131)",
+      "id": "W30mlSzXfpA"
+    }
+  ],
+  "bespokeRequests": [
+    {
+      "awardTitle": "adsfa",
+      "category": "Sports Trophies",
+      "material": "Solid Obsidian Stone",
+      "recipient": "adfa",
+      "dimension": "12\" Elite Edition",
+      "notes": "adfas",
+      "date": "May 21, 2026",
+      "status": "Archived",
+      "clientEmail": "admin@admin.com",
+      "clientName": "Admin",
+      "id": "l6c-Kt4JECA"
+    }
+  ],
+  "coupons": [],
+  "notifications": [
+    {
+      "id": "SXyYrzpd8IQ",
+      "title": "Exclusive Offer: 25% OFF",
+      "message": "Use code ASDF at checkout to claim your discount.",
+      "date": "2026-05-22T06:30:11.719Z",
+      "type": "coupon"
+    }
+  ],
+  "inquiries": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}

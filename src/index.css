@@ -1,0 +1,65 @@
+/* Global Resets for Aurelian & Onyx Trophies */
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #000000;
+  color: #ffffff;
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #050505;
+}
+::-webkit-scrollbar-thumb {
+  background: #c9a32d;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f4d96b;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* --- SWEETALERT2 PREMIUM AURELIAN CUSTOMIZATION --- */
+.swal2-aurelian-popup {
+  border: 1px solid rgba(212, 175, 55, 0.3) !important;
+  box-shadow: 0 24px 50px rgba(0,0,0,0.8) !important;
+  border-radius: 12px !important;
+  font-family: 'Inter', sans-serif !important;
+}
+.swal2-aurelian-confirm {
+  background: linear-gradient(90deg, #c9a227, #f1d255) !important;
+  color: #000000 !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+  padding: 12px 24px !important;
+  border-radius: 6px !important;
+}
+.swal2-aurelian-cancel {
+  background: #111112 !important;
+  border: 1px solid rgba(255, 255, 255, 0.15) !important;
+  color: #ffffff !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+  padding: 12px 24px !important;
+  border-radius: 6px !important;
+}
